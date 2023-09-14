@@ -1,0 +1,12 @@
+# environment
+Python-dotenv==1.0.0
+
+# streamlit
+streamlit==1.18.1
+streamlit-extras
+altair<5
+
+langchain==0.0.287
+openai==0.28.0
+wikipedia==1.4.0
+

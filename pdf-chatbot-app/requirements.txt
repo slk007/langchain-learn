@@ -1,0 +1,14 @@
+# PDF reader
+PyPDF2==3.0.1
+
+# python env
+Python-dotenv==1.0.0
+
+# streamlit
+streamlit==1.18.1
+streamlit-extras
+altair<5
+
+openai==0.28.0
+langchain==0.0.287
+faiss-cpu==1.7.4
